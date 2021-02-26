@@ -1,0 +1,5 @@
+static_files:
+  - _headers
+  - favicon.ico
+  - favicon.png
+  - .nojekyll

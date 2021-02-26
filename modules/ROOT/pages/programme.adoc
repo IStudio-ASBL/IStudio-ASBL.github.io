@@ -1,0 +1,12 @@
+= Programme
+:navtitle: Programme
+:keywords: IStudio, ASBL, Programme
+:page-aliases: .:category/root/2/actu.html, .:category/root/actu/12/programme.html
+
+* xref:informations-generales.adoc[]
+* xref:ateliers-socio-artistiques.adoc[]
+* xref:workshops.adoc[]
+* xref:projet-annuel.adoc[]
+* xref:projets-en-partenariat.adoc[]
+* xref:plateformes-citoyennes.adoc[]
+* xref:diffusion.adoc[]

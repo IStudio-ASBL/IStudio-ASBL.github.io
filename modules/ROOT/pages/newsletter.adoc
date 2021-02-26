@@ -1,0 +1,8 @@
+= Newsletter
+:page-aliases: .:page/root/74/newsletter.html
+
+
+[TIP]
+====
+* link:https://us4.list-manage.com/subscribe/post?u=b6be94338aa6f19c8dbf76901&id=a48a53be5b[Inscrivez-vous à notre lettre d'informations]
+====

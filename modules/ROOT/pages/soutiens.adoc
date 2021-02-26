@@ -1,0 +1,14 @@
+= Soutiens
+:page-aliases: .:category/root/6/soutiens.html
+
+== image:logo_federation_wallonie_bruxelles.jpg[Logo Fédération Wallonie Bruxelles,100,role=right] La Fédération Wallonie Bruxelles 
+
+* secteur éducation permanente / CEC
+* secteur théâtre
+
+== image:logo_francophones_bruxelles.png[Logo Francophones Bruxelles,100,role=right] Service public francophone bruxellois / Commission communautaire française 
+
+* secteur cohésion sociale
+* direction des affaires culturelles et du tourisme
+
+== image:logo_actiris.jpg[Logo Actiris,100, role=right] L'Office régional bruxellois de l'emploi 

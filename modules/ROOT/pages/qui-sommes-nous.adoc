@@ -1,0 +1,19 @@
+= Qui sommes nous
+:navtitle: Qui sommes nous
+:keywords: IStudio, ASBL, Qui sommes nous
+:page-aliases: .:index.php, .:page/root/pr-eacutesentation/72/qui-sommesnous.html, .:category/root/4/pr-eacutesentation.html
+
+image:canal.jpg[Photos : Châu Dang, IStudio - Kanaal 1]
+
+IStudio / IS asbl est un Centre d’Expression et de Créativité bruxellois, reconnu par la Fédération Wallonie-Bruxelles depuis 1997.
+
+Encadrées par des artistes/formateurs professionnels, les différentes activités proposées par IStudio (« Ateliers », « Projet annuel », « Formations », « Projets en partenariat », « Plateformes citoyennes », spectacles, expositions, projections, etc.) s'inscrivent dans le secteur de l'éducation permanente. Elles ont pour mission de favoriser le développement culturel des individus et des groupes par l'initiation et l'exercice d'une activité artistique et par la stimulation de l'expression et de la créativité. Elles visent dans le même temps à apporter aux participants – de tous âges, milieux et origines – des outils d'analyse et de réflexion qui leur permettront d'agir en tant que citoyens responsables et autonomes. Dans cette logique, nous mettons également en place des réseaux de partenariats culturels, associatifs, scolaires et artistiques, afin de mener des actions socio-artistiques et pédagogiques, formatives et culturelles.
+
+[TIP]
+====
+xref:historique.adoc[]
+====
+
+image:studio.jpg[Photos : Châu Dang, IStudio - Kanaal 1]
+
+Photos : Châu Dang, IStudio - Kanaal 1
