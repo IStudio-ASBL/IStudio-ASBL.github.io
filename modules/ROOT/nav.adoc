@@ -1,7 +1,6 @@
 * xref:qui-sommes-nous.adoc[]
 ** xref:historique.adoc[] 
 * xref:programme.adoc[]
-** xref:informations-generales.adoc[]
 ** xref:ateliers-socio-artistiques.adoc[]
 ** xref:workshops.adoc[]
 ** xref:projet-annuel.adoc[]

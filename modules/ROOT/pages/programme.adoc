@@ -1,9 +1,14 @@
 = Programme
 :navtitle: Programme
 :keywords: IStudio, ASBL, Programme
-:page-aliases: .:category/root/2/actu.html, .:category/root/actu/12/programme.html
+:page-aliases: .:category/root/2/actu.html, .:category/root/actu/12/programme.html, .:page/programme/65/informations-g-eacuten-eacuterales.htm, informations-generales
 
-* xref:informations-generales.adoc[]
+Chaque saison, notre programme comporte deux axes artistiques et formatifs principaux articulés autour d’une thématique commune : les langages comme outils artistiques, socio-culturels et identitaires.
+
+Développée tout au long de nos xref:ateliers-socio-artistiques.adoc[], xref:projet-annuel.adoc[], xref:projets-en-partenariat.adoc[] et à travers des disciplines telles que la littérature, la création textile, l'art plastique, le théâtre, la vidéo, le son et l'image mais aussi par l'intermédiaire de notre formation FLE (français langue étrangère), cette thématique sera approfondie lors de nos xref:plateformes-citoyennes.adoc[] et xref:diffusion.adoc[] organisées au cours de l'année.
+
+Au cours de cette même saison, différents xref:projets-en-partenariat.adoc[] seront proposés en partenariat avec d'autres opérateurs.
+
 * xref:ateliers-socio-artistiques.adoc[]
 * xref:workshops.adoc[]
 * xref:projet-annuel.adoc[]
