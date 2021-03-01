@@ -23,3 +23,7 @@ Bvd Barthélémy, 11
 * Tram 51, arrêt Porte de Flandre
 
 * Bus 86, arrêt Porte de Flandre
+
+++++
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.3403586745262155%2C50.851264655595756%2C4.341498613357545%2C50.85337793878195&amp;layer=mapnik&amp;marker=50.85232132363613%2C4.34093006714977" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.85232&amp;mlon=4.34093#map=19/50.85232/4.34093">Afficher une carte plus grande</a></small>>
+++++

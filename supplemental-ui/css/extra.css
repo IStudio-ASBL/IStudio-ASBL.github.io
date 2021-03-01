@@ -42,10 +42,28 @@ i.fa.icon-caution::before {
     padding-top: 100px;
 }
 
-/* Logo in navigation bar */
-/* .navbar-brand {
-    height: 150px;
-    width: 100%;
-    display: block;
-} */
+/* Mailchimp newsletter */
 
+#mc-embedded-subscribe-form input[type=checkbox] {
+    display: inline;
+    width: auto;
+    margin-right: 10px;
+}
+
+#mergeRow-gdpr {
+    margin-top: 20px;
+}
+
+#mergeRow-gdpr fieldset label, .content__gdpr, .content__gdprLegal {
+    font-weight: normal;
+}
+
+#mc-embedded-subscribe-form .mc_fieldset {
+    border: none;
+    min-height: 0px;
+    padding-bottom: 0px;
+}
+
+.mc-field-group {
+    font-weight: bold;
+}
