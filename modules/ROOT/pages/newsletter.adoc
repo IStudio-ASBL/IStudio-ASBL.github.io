@@ -11,7 +11,7 @@
 ++++
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
-<form action="https://us4.list-manage.com/subscribe/post?u=b6be94338aa6f19c8dbf76901&id=a48a53be5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://us4.list-manage.com/subscribe/post?u=b6be94338aa6f19c8dbf76901&id=a48a53be5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" data-netlify="true" novalidate>
     <div id="mc_embed_signup_scroll">
 <div class="indicates-required"><span class="asterisk">*</span> champ obligatoire</div>
 <div class="mc-field-group">
