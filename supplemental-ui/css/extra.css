@@ -34,12 +34,16 @@ i.fa.icon-caution::before {
 }
 
 /* Logo in navigation bar */
+.header {
+    height: 100px;
+}
+
 .navbar {
     height: 150px;
 }
 
-.body {
-    padding-top: 100px;
+.nav-container.is-active {
+    margin-top: 100px;
 }
 
 /* Mailchimp newsletter */
